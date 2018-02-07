@@ -1,0 +1,6 @@
+<label>Superhéroe favorito</label>
+<input list="superheroes" name="list" />
+<datalist id="superheroes">
+    <option label="Iron Man" value="Iron Man">
+    <option label="The Hulk" value="The Hulk">
+</datalist>
